@@ -5,9 +5,9 @@ module.exports = {
     title: 'Rahul',
     description:
       'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    siteUrl: 'https://rahulramkumar.in', // No trailing slash allowed!
+    image: '/rahul.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: 'rahul',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
